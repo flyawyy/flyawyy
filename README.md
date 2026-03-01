@@ -1,5 +1,3 @@
 
-<br clear="both">
-
-<h3 align="center">my portfolio:<br>https://flyawyy.github.io/aways/home/index.html</h3>
+<h3 align="center">my portfolio: https://flyawyy.github.io/AWAY/
 
